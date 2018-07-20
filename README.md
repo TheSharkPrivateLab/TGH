@@ -12,6 +12,7 @@ Allumez votre télévision, choisissez un maître du jeu, une demi-douzaine de j
 Les règles sont simples, il s'agit d'une compétition de connaissance entre plusieurs joueurs. Le but du jeu est d'être le premier à arriver à 100 points.
 Chacun leur tour, les joueurs vont devoir répondre à une question sur la pop culture.
 - Les joueurs peuvent choisir une catégorie parmi 4 proposées aléatoirement, ainsi qu'une difficulté aléatoire.
+- 30 secondes pour répondre à la question, avant apparition de la réponse. Une fois la réponse apparue, le MdJ doit valide ou refuser la réponse du joueur.
 - Répondre correctement rapporte des points, cependant, cela réduit le nombre de point que les prochaines questions de la même catégorie rapporte.
 
 ## Bonus & Malus
@@ -20,6 +21,7 @@ Chacun leur tour, les joueurs vont devoir répondre à une question sur la pop c
 - Pour les Bonus "pièges", ils peuvent être utilisés n'importe quand sauf contre indication.
 - Pour les Malus "contrats avec le Diable", ils peuvent être acceptés et fournir un avantage contre un coût permanent. Dans le cas où ils sont refusés, un autre Malus aléatoire est choisi. Accepter un "contrat avec le Diable" empêche définitivement l'apparition de Bonus pour le joueur.
 ### Bonus
+- Reset des baisses de points sur une catégorie
 - Plus de points (entre 10-20% de l'objectif de points, jamais assez pour gagner)
 - Plus de points sur la prochaine question (entre 20%-50% des points)
 - Moins de difficulté (pendant 1-3 tours)
